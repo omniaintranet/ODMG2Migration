@@ -1,0 +1,138 @@
+D:\G2\Models\bin\Debug\Models.dll
+D:\G2\Models\bin\Debug\Models.pdb
+D:\G2\Models\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\G2\Models\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\G2\Models\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\G2\Models\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\G2\Models\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\G2\Models\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\G2\Models\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\G2\Models\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\G2\Models\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\G2\Models\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\G2\Models\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\G2\Models\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\G2\Models\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\G2\Models\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\G2\Models\bin\Debug\Newtonsoft.Json.dll
+D:\G2\Models\bin\Debug\Newtonsoft.Json.xml
+D:\G2\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\G2\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\G2\Models\obj\Debug\Models.csproj.CopyComplete
+D:\G2\Models\obj\Debug\Models.dll
+D:\G2\Models\obj\Debug\Models.pdb
+D:\G2\HieuODMMigration\Models\bin\Debug\Models.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Models.pdb
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Newtonsoft.Json.dll
+D:\G2\HieuODMMigration\Models\bin\Debug\Newtonsoft.Json.xml
+D:\G2\HieuODMMigration\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\G2\HieuODMMigration\Models\obj\Debug\Models.csproj.CopyComplete
+D:\G2\HieuODMMigration\Models\obj\Debug\Models.dll
+D:\G2\HieuODMMigration\Models\obj\Debug\Models.pdb
+D:\G2\HieuODMMigration\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Models.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Models.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Newtonsoft.Json.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\bin\Debug\Newtonsoft.Json.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\obj\Debug\Models.csproj.CopyComplete
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\obj\Debug\Models.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Models\obj\Debug\Models.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Models.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Models.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Newtonsoft.Json.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Newtonsoft.Json.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.csproj.CopyComplete
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Models.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Models.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Newtonsoft.Json.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\bin\Debug\Newtonsoft.Json.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.csproj.CopyComplete
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Models\obj\Debug\Models.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Models.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Models.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Newtonsoft.Json.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\bin\Debug\Newtonsoft.Json.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\obj\Debug\Models.csproj.CopyComplete
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\obj\Debug\Models.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Models\obj\Debug\Models.pdb

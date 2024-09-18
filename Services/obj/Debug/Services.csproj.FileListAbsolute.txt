@@ -1,0 +1,738 @@
+D:\G2\Services\bin\Debug\Services.dll.config
+D:\G2\Services\bin\Debug\Services.dll
+D:\G2\Services\bin\Debug\Services.pdb
+D:\G2\Services\bin\Debug\AngleSharp.dll
+D:\G2\Services\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+D:\G2\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\G2\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\G2\Services\bin\Debug\Microsoft.Data.Edm.dll
+D:\G2\Services\bin\Debug\Microsoft.Data.OData.dll
+D:\G2\Services\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\G2\Services\bin\Debug\Microsoft.Graph.Core.dll
+D:\G2\Services\bin\Debug\Microsoft.Graph.dll
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\G2\Services\bin\Debug\microsoft.identitymodel.dll
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\G2\Services\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\G2\Services\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\G2\Services\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\G2\Services\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\G2\Services\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\G2\Services\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\G2\Services\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\G2\Services\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\G2\Services\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\G2\Services\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\G2\Services\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\G2\Services\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\G2\Services\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\G2\Services\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\G2\Services\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\G2\Services\bin\Debug\Models.dll
+D:\G2\Services\bin\Debug\Newtonsoft.Json.dll
+D:\G2\Services\bin\Debug\OfficeDevPnP.Core.dll
+D:\G2\Services\bin\Debug\SharePointPnP.IdentityModel.Extensions.dll
+D:\G2\Services\bin\Debug\System.Buffers.dll
+D:\G2\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\G2\Services\bin\Debug\System.Memory.dll
+D:\G2\Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\G2\Services\bin\Debug\System.Numerics.Vectors.dll
+D:\G2\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\G2\Services\bin\Debug\System.Spatial.dll
+D:\G2\Services\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\G2\Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\G2\Services\bin\Debug\System.Text.Json.dll
+D:\G2\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\G2\Services\bin\Debug\System.ValueTuple.dll
+D:\G2\Services\bin\Debug\System.Web.Http.dll
+D:\G2\Services\bin\Debug\Models.pdb
+D:\G2\Services\bin\Debug\AngleSharp.xml
+D:\G2\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\G2\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\G2\Services\bin\Debug\Microsoft.Data.Edm.xml
+D:\G2\Services\bin\Debug\Microsoft.Data.OData.xml
+D:\G2\Services\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\G2\Services\bin\Debug\Microsoft.Graph.xml
+D:\G2\Services\bin\Debug\Microsoft.Graph.Core.xml
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\G2\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\G2\Services\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\G2\Services\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\G2\Services\bin\Debug\Newtonsoft.Json.xml
+D:\G2\Services\bin\Debug\OfficeDevPnP.Core.xml
+D:\G2\Services\bin\Debug\System.Buffers.xml
+D:\G2\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\G2\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\G2\Services\bin\Debug\System.Memory.xml
+D:\G2\Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\G2\Services\bin\Debug\System.Numerics.Vectors.xml
+D:\G2\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\G2\Services\bin\Debug\System.Spatial.xml
+D:\G2\Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\G2\Services\bin\Debug\System.Text.Json.xml
+D:\G2\Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\G2\Services\bin\Debug\System.ValueTuple.xml
+D:\G2\Services\bin\Debug\System.Web.Http.xml
+D:\G2\Services\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\G2\Services\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\G2\Services\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\G2\Services\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\G2\Services\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\G2\Services\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\G2\Services\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\G2\Services\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\G2\Services\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\G2\Services\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\G2\Services\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\G2\Services\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\G2\Services\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\G2\Services\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\G2\Services\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\G2\Services\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\G2\Services\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\G2\Services\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\G2\Services\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\G2\Services\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\G2\Services\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\G2\Services\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\G2\Services\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\G2\Services\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\G2\Services\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\G2\Services\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\G2\Services\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\G2\Services\bin\Debug\de\System.Spatial.resources.dll
+D:\G2\Services\bin\Debug\es\System.Spatial.resources.dll
+D:\G2\Services\bin\Debug\fr\System.Spatial.resources.dll
+D:\G2\Services\bin\Debug\it\System.Spatial.resources.dll
+D:\G2\Services\bin\Debug\ja\System.Spatial.resources.dll
+D:\G2\Services\bin\Debug\ko\System.Spatial.resources.dll
+D:\G2\Services\bin\Debug\ru\System.Spatial.resources.dll
+D:\G2\Services\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\G2\Services\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\G2\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\G2\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\G2\Services\obj\Debug\Services.csproj.CopyComplete
+D:\G2\Services\obj\Debug\Services.dll
+D:\G2\Services\obj\Debug\Services.pdb
+D:\G2\HieuODMMigration\Services\bin\Debug\Services.dll.config
+D:\G2\HieuODMMigration\Services\bin\Debug\Services.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Services.pdb
+D:\G2\HieuODMMigration\Services\bin\Debug\AngleSharp.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Data.Edm.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Data.OData.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Graph.Core.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Graph.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\microsoft.identitymodel.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Models.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Newtonsoft.Json.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\OfficeDevPnP.Core.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\SharePointPnP.IdentityModel.Extensions.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Buffers.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Memory.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Numerics.Vectors.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Spatial.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Text.Json.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.ValueTuple.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Web.Http.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\Models.pdb
+D:\G2\HieuODMMigration\Services\bin\Debug\AngleSharp.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Data.Edm.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Data.OData.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Graph.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.Graph.Core.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\G2\HieuODMMigration\Services\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\Newtonsoft.Json.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\OfficeDevPnP.Core.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Buffers.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\G2\HieuODMMigration\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Memory.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Numerics.Vectors.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Spatial.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Text.Json.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.ValueTuple.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\System.Web.Http.xml
+D:\G2\HieuODMMigration\Services\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\de\System.Spatial.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\es\System.Spatial.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\fr\System.Spatial.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\it\System.Spatial.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ja\System.Spatial.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ko\System.Spatial.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\ru\System.Spatial.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\G2\HieuODMMigration\Services\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\G2\HieuODMMigration\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\G2\HieuODMMigration\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\G2\HieuODMMigration\Services\obj\Debug\Services.csproj.CopyComplete
+D:\G2\HieuODMMigration\Services\obj\Debug\Services.dll
+D:\G2\HieuODMMigration\Services\obj\Debug\Services.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Services.dll.config
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Services.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Services.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\AngleSharp.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Data.Edm.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Data.OData.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Graph.Core.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Graph.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\microsoft.identitymodel.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Models.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Newtonsoft.Json.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Buffers.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Memory.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Numerics.Vectors.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Spatial.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Text.Json.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.ValueTuple.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Web.Http.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Models.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\AngleSharp.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Data.Edm.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Data.OData.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Graph.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.Graph.Core.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\Newtonsoft.Json.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Buffers.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Memory.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Numerics.Vectors.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Spatial.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Text.Json.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.ValueTuple.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\System.Web.Http.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\de\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\es\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\fr\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\it\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ja\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ko\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\ru\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\obj\Debug\Services.csproj.CopyComplete
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\obj\Debug\Services.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2\Services\obj\Debug\Services.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Services.dll.config
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Services.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Services.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\AngleSharp.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.Edm.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.OData.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Graph.Core.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Graph.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\microsoft.identitymodel.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Models.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Newtonsoft.Json.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Buffers.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Memory.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Numerics.Vectors.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Spatial.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Json.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.ValueTuple.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Web.Http.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Models.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\AngleSharp.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.Edm.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.OData.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Graph.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Graph.Core.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Newtonsoft.Json.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Buffers.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Memory.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Numerics.Vectors.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Spatial.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Json.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.ValueTuple.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Web.Http.xml
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\de\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\es\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\fr\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\it\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ja\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ko\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ru\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.csproj.CopyComplete
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.dll
+D:\ODM G2\Omnia-AM\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Services.dll.config
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Services.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Services.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\AngleSharp.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.Edm.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.OData.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Graph.Core.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Graph.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\microsoft.identitymodel.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Models.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Newtonsoft.Json.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Buffers.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Memory.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Numerics.Vectors.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Spatial.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Json.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.ValueTuple.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Web.Http.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Models.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\AngleSharp.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.Edm.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.OData.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Graph.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.Graph.Core.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\Newtonsoft.Json.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Buffers.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Memory.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Numerics.Vectors.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Spatial.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Text.Json.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.ValueTuple.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\System.Web.Http.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\de\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\es\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\fr\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\it\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ja\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ko\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\ru\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.csproj.CopyComplete
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Omnia7\Services\obj\Debug\Services.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Services.dll.config
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Services.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Services.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\AngleSharp.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Data.Edm.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Data.OData.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Graph.Core.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Graph.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\microsoft.identitymodel.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Models.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Newtonsoft.Json.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Buffers.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Memory.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Numerics.Vectors.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Spatial.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Text.Encodings.Web.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Text.Json.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.ValueTuple.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Web.Http.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Models.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\AngleSharp.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Data.Edm.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Data.OData.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Graph.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.Graph.Core.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\Newtonsoft.Json.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Buffers.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Memory.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Numerics.Vectors.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Spatial.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Text.Encodings.Web.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Text.Json.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.ValueTuple.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\System.Web.Http.xml
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\de\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\es\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\fr\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\it\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ja\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ko\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\ru\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\obj\Debug\Services.csproj.CopyComplete
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\obj\Debug\Services.dll
+D:\AMSource\Tools\ODMMigrationToolG2 - Svafo\Services\obj\Debug\Services.pdb
